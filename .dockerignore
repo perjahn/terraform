@@ -1,0 +1,11 @@
+.*
+*.md
+docs
+testing
+tools
+website
+CODEOWNERS
+Dockerfile
+LICENSE
+Makefile
+codecov.yml
